@@ -1,5 +1,8 @@
 # Quirk
 
+Edit: Fixed by <https://github.com/NixOS/nixpkgs/pull/298086>
+
+
 Demonstrates a quirk with the `.dev` version term and nix.
 
 To reproduce:
